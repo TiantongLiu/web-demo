@@ -8,7 +8,7 @@
     {
       "description": "Customer withdraws the deposit",
       "title": "Withdrawal",
-      "date": "2020/12/09"
+      "date": "2020/12/15"
     },
     {
       "description": "Regarding account issue",
@@ -18,22 +18,22 @@
     {
       "description": "Regarding account issue",
       "title": "Branch/ATM visit",
-      "date": "2021/01/09"
+      "date": "2021/01/26"
     },
     {
       "description": "",
       "title": "Online/Mobile log on",
-      "date": "2021/01/15"
+      "date": "2021/02/15"
     },
 	{
       "description": "Customer complained about the redundant verification process",
       "title": "Complaint",
-      "date": "2021/01/25"
+      "date": "2021/02/25"
     },
 	{
       "description": "customer called agent regarding a fraud case",
       "title": "customer service call",
-      "date": "2021/02/14"
+      "date": "2021/03/14"
     }
   ],
   "accountStatus": [
@@ -41,13 +41,13 @@
       "description": "Deposit account",
       "title": "Account active",
       "start": "2020/12/01",
-	  "end": "2021/03/01",
+	  "end": "2021/06/01",
 	  "color": "#00a950"
     },
     {
       "description": "Deposit account",
       "title": "account closed",
-      "start": "2021/03/02",
+      "start": "2021/06/02",
 	  "end": "2021/07/08",
 	  "color": "#00a950"
     }
