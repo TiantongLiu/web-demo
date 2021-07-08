@@ -13,17 +13,17 @@
     {
       "description": "Regarding account issue",
       "title": "Inbound phone call",
-      "date": "2020/12/21"
+      "date": "2020/01/21"
     },    
     {
       "description": "Regarding account issue",
       "title": "Branch/ATM visit",
-      "date": "2021/01/26"
+      "date": "2021/02/26"
     },
     {
       "description": "",
       "title": "Online/Mobile log on",
-      "date": "2021/02/15"
+      "date": "2021/03/30"
     },
 	{
       "description": "Customer complained about the redundant verification process",
@@ -50,6 +50,28 @@
       "start": "2021/06/02",
 	  "end": "2021/07/08",
 	  "color": "#00a950"
+    }
+  ],
+  "interaction": [
+    {
+      "description": "Customer complained about the redundant verification process",
+      "title": "Customer Complaint",
+      "date": "2021/02/25"
+    },
+	{
+      "description": "customer called agent regarding a fraud case",
+      "title": "customer service call",
+      "date": "2021/03/14"
+    },
+	{
+      "description": "customer called agent regarding overdraft fee",
+      "title": "customer service call",
+      "date": "2021/05/01"
+    },
+	{
+      "description": "customer complained about the slow process of investigation",
+      "title": "customer Complaint",
+      "date": "2021/05/19"
     }
   ]
  }
