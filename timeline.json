@@ -1,0 +1,55 @@
+{
+  "activities": [
+    {
+      "description": "Direct deposit",
+      "title": "Direct deposit",
+      "date": "2020/12/02"
+    },
+    {
+      "description": "Customer withdraws the deposit",
+      "title": "Withdrawal",
+      "date": "2020/12/09"
+    },
+    {
+      "description": "Regarding account issue",
+      "title": "Inbound phone call",
+      "date": "2020/12/21"
+    },    
+    {
+      "description": "Regarding account issue",
+      "title": "Branch/ATM visit",
+      "date": "2021/01/09"
+    },
+    {
+      "description": "",
+      "title": "Online/Mobile log on",
+      "date": "2021/01/15"
+    },
+	{
+      "description": "Customer complained about the redundant verification process",
+      "title": "Complaint",
+      "date": "2021/01/25"
+    },
+	{
+      "description": "customer called agent regarding a fraud case",
+      "title": "customer service call",
+      "date": "2021/02/14"
+    }
+  ],
+  "accountStatus": [
+    {
+      "description": "Deposit account",
+      "title": "Account active",
+      "start": "2020/12/01",
+	  "end": "2021/03/01",
+	  "color": "#00a950"
+    },
+    {
+      "description": "Deposit account",
+      "title": "account closed",
+      "start": "2021/03/02",
+	  "end": "2021/07/08",
+	  "color": "#00a950"
+    }
+  ]
+ }
